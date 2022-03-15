@@ -4,7 +4,7 @@
 - LSTM
 - GRU
 
-### result for CIFAR10
+### result for PTB
 - seq_len = 25
 - \# of epochs = 500
 - Adam optimizer: lr = 1e-2, weight_decay = 1e-4
